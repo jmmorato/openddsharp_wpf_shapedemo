@@ -1,2 +1,3 @@
-# openddsharp_wpf_shapedemo
-OpenDDSharp WPF ShapeDemo
+# OpenDDSharp WPF ShapeDemo
+
+OpenDDSharp interoperability example.
